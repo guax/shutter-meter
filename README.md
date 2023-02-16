@@ -5,7 +5,9 @@ and arduino nano every and some easy to find parts.
 
 This project made use of a 3d printer for its case and functional design.
 
-## How to make my own
+![Image of schematic](https://github.com/guax/shutter-meter/raw/master/hero.jpg)
+
+## How to make your own
 
 You can find the schematics, 3d files and arduino source code in this repository.
 
